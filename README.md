@@ -24,7 +24,7 @@ The Academic Portal utilizes the following technologies:
 
 To set up the Academic Portal locally for development purposes, follow these steps:
 
-1. Clone the repository from GitHub: `git clone <repository-url>`
+1. Clone the repository from GitHub: `git clone https://github.com/Mahmoud-Hassan98/Academic-Portal`
 2. Install the necessary dependencies by running the command: `npm install`
 3. Set up a MongoDB database and configure the connection settings.
 4. Run the server using the command: `npm start`
